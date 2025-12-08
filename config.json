@@ -1,0 +1,55 @@
+{
+  "project": "Ọ̀ṢỌ́VM v7 — OSO Control Center",
+  "version": "1.0.0",
+  "sections": {
+    "LANGUAGE": {
+      "name": "Techgnosis Language",
+      "description": "Parser, compiler, syntax, examples",
+      "repos": ["techgnosis"],
+      "key_files": ["oso_compiler.jl", "examples/", "test/"]
+    },
+    "VM": {
+      "name": "ÀṣẹVault VM Core",
+      "description": "23 opcodes, bytecode execution, stack machine",
+      "repos": ["osovm"],
+      "key_files": ["src/opcodes.jl", "src/oso_vm.jl"]
+    },
+    "LAYER1": {
+      "name": "Real-World Witnessing",
+      "description": "Contracts, signatures, geo-hash, timestamps",
+      "repos": ["osovm"],
+      "key_files": ["src/ffi/go/tithe_router.go", "move_contracts/sources/"]
+    },
+    "LAYER2": {
+      "name": "Simulation & Oracle Economy",
+      "description": "VeilSim scorer, route optimizer, Àṣẹ minting",
+      "repos": ["osovm", "techgnosis"],
+      "key_files": ["src/veilsim_scorer.jl", "src/veils_777_complete.jl"]
+    },
+    "OPCODES": {
+      "name": "VM Instruction Set",
+      "description": "Complete opcode reference with definitions",
+      "entries": 25
+    },
+    "DOCS": {
+      "name": "Sacred Bible",
+      "description": "Full documentation, theology, architecture"
+    }
+  },
+  "github": {
+    "owner": "jbino85",
+    "repos": [
+      "techgnosis",
+      "osovm",
+      "ifascript",
+      "zangbeto",
+      "twelve-thrones-genesis",
+      "ase-mirror"
+    ]
+  },
+  "api": {
+    "host": "127.0.0.1",
+    "port": 8888,
+    "prefix": "/api/v1"
+  }
+}
