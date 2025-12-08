@@ -12,11 +12,7 @@ from datetime import datetime
 from pathlib import Path
 from typing import Dict, List, Any
 
-from models import (
-    OSOControlState, LanguageSpec, VMConfig, OpcodeReference, Opcode,
-    Layer1Contract, Layer2Config, FileEntry, FileSection, GitHubRepo,
-    RepositorySync, CopilotRequest, CopilotResponse, ExecutionState
-)
+# Import models not needed with dict-based approach
 
 app = FastAPI(
     title="Ọ̀ṢỌ́VM Control Center",
