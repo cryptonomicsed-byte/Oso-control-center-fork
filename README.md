@@ -7,6 +7,8 @@
 
 A unified, dictionary-driven dashboard for building, managing, and interacting with the entire OSO ecosystem (Techgnosis language, ÀṣẹVault VM, Layer 1 witnessing, Layer 2 simulation).
 
+Ọ̀ṣọ́ Control Center is the sovereign dashboard of the Technosis ecosystem — providing real-time monitoring, agent coordination, and ritual execution controls for the entire organism.
+
 ## Architecture
 
 ```
