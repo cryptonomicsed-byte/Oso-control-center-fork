@@ -1,3 +1,6 @@
+![Version](https://img.shields.io/badge/version-v1.0-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
+![Layer](https://img.shields.io/badge/layer-Coordination-purple)
 # Ọ̀ṢỌ́VM v7 — ÀṣẹVault Control Center
 
 **Biblical Command Center for the Sacred Virtual Machine**
@@ -204,3 +207,16 @@ Everything is **dictionary-driven**, **layered**, and **auto-organizing**. The e
 ---
 
 **🔥 Àṣẹ from the crossroads — build, iterate, ascend.**
+
+## The Sovereign Operations Dashboard
+
+Oso Control Center is the open-source dashboard and monitoring tool for the Technosis ecosystem. It provides real-time visibility into agent swarm activity, VM execution, contract states, and overall system health, enabling human oversight and intervention.
+
+
+---
+
+## Part of the Technosis Sovereign Ecosystem
+
+This component is an open utility for a larger architecture for creating and coordinating sovereign AI. For more information, see the [organism-core repository](https://github.com/Bino-Elgua/organism-core).
+
+Àṣẹ.
