@@ -1,4 +1,4 @@
-![Version](https://img.shields.io/badge/version-v1.0-blue)
+![Version](https://img.shields.io/badge/version-v0.1.0-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Layer](https://img.shields.io/badge/layer-Coordination-purple)
 # Ọ̀ṢỌ́VM v7 — ÀṣẹVault Control Center
